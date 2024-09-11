@@ -69,7 +69,6 @@ If the Freaky Fungus' HP falls below 50, have it regenerate 1 HP every second.
 - **AP Cost:** 33
 - **HP Damage:** 25
 
-
 ## Attributions
 
 Game art is freely available from [OpenGameArt.org](https://opengameart.org/):
